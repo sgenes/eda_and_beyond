@@ -22,7 +22,7 @@ NAME
     modeling_tools
 
 DESCRIPTION
-    This module provides a class object that includes methods to streamline the
+    This module provides a class that includes methods to streamline the
     modeling process for Scikit-Learn models. 
 
 MODULE CONTENTS

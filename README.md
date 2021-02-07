@@ -17,7 +17,7 @@ The package consists of two modules:
     preparation, and data visualization etc. 
 
 * [modeling_tools](https://github.com/FredaXin/eda_and_beyond/blob/master/eda_and_beyond/modeling_tools.py):
-  provides a class object that includes methods to streamline the modeling process for Scikit-Learn models. 
+  provides a class that includes methods to streamline the modeling process for Scikit-Learn models. 
  
 This is an open-source project. Contributors are welcome. :) 
  

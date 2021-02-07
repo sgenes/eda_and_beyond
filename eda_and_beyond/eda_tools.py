@@ -21,7 +21,7 @@ DESCRIPTION
 
 MODULE CONTENTS
     inspect_dupes
-    inpect_nans
+    inspect_nans
     view_columns_w_many_nans
     drop_columns_w_many_nans
     histograms_numeric_columns
@@ -58,7 +58,7 @@ def inspect_dupes(df, dedupe=False):
 
 
 
-def inpect_nans(df): 
+def inspect_nans(df): 
     '''
     Check number and percentage of NaN
     Arg: dataframe
